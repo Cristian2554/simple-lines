@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cristian2554.github.io/simple-lines/posts/first-post/</loc>
+    <loc>http://localhost:1313/simple-lines/posts/first-post/</loc>
     <lastmod>2024-05-02T18:38:47+02:00</lastmod>
   </url><url>
-    <loc>https://cristian2554.github.io/simple-lines/</loc>
+    <loc>http://localhost:1313/simple-lines/</loc>
     <lastmod>2024-05-02T18:38:47+02:00</lastmod>
   </url><url>
-    <loc>https://cristian2554.github.io/simple-lines/posts/</loc>
+    <loc>http://localhost:1313/simple-lines/posts/</loc>
     <lastmod>2024-05-02T18:38:47+02:00</lastmod>
   </url>
 </urlset>
